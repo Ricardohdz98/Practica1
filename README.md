@@ -5,6 +5,10 @@
 # Alumnos
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
+Sanchez Vargas Kevin Ivan
+Bola�os Martinez Hector Jair
+valetin alejandro ruiz ortiz
+Juan Antonio Casillas Ballesteros
 Castillo Mares Gilberto
 Juan Antonio Casillas Ballesteros
 Guerrero Muñoz Alan Jahir
@@ -16,5 +20,11 @@ ahtziri isabel lopez velazquez
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+Irad Eber Alvarez Hernandez
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+
+
 
 
