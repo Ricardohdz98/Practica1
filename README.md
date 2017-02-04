@@ -21,8 +21,8 @@ Juan Antonio Casillas Ballesteros
 
 
 
-=======
->>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
+
+
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
