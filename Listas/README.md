@@ -1,2 +1,3 @@
 Listas 
-Ricardo Daniel Gonzalez Perez 
+Ricardo Daniel Gonzalez Perez
+Gallardo Hernandez Emmanuel
