@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 Davila Navarro Cuauhtli
 
