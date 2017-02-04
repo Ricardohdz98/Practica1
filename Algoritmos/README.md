@@ -14,4 +14,5 @@ Perez Hernandez Leopoldo Daniel
 Villa Martinez Jorge Alberto 
 Perez Hernandez Leopoldo Daniel
 Gonzalez Hinostroza Victor Benigno
+Diaz Lozano Carlos Ernesto
 >>>>>>> 27fb68a6cad01d4cc79bb5467f6892b863c7f3b9
