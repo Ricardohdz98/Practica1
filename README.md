@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 Davila Navarro Cuauhtli
 
@@ -13,6 +12,9 @@ Proyecto Mantenimiento y pruebas de software
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
+<<<<<<< HEAD
+# Alu
+=======
 # Alumnos
 Garcia Haro Luis Jared
 Angel Cipriano Paulino
@@ -41,12 +43,15 @@ Juan Antonio Casillas Ballesteros
 =======
 
 =======
+>>>>>>> 9c6cbb7ceed2ac47bdda7edc02b636c11b2b744c
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
 Sanchez Vargas Kevin Ivan
 Bolaï¿½os Martinez Hector Jair
-valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
+<<<<<<< HEAD
+Castillo Mares Gilberto
+=======
 Davila Navarro Cuauhtli
 <<<<<<< HEAD
 
@@ -59,6 +64,7 @@ Castillo Mares Gilberto
 
 Valadez Lizares Daniel Gustavo
 
+>>>>>>> 9c6cbb7ceed2ac47bdda7edc02b636c11b2b744c
 Juan Antonio Casillas Ballesteros
 
 Juan Antonio Casillas Ballesteros
@@ -66,6 +72,10 @@ Juan Antonio Casillas Ballesteros
 Guerrero Muñoz Alan Jahir
 
 Sánchez Ochoa Brian
+<<<<<<< HEAD
+Carlo Saul Cardenas Zaragoza
+Guerrero MuÃ±oz Alan Jahir
+=======
 <<<<<<< HEAD
 
 =======
@@ -86,15 +96,17 @@ Sanchez Vargas Kevin Ivan
 
 =======
 Gonzalez Perez Ricardo Daniel 
+>>>>>>> 9c6cbb7ceed2ac47bdda7edc02b636c11b2b744c
 Sanchez Vargas Kevin Ivan
 BolaÃ±os Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Gonzalez Perez Ricardo Daniel
 Gonzalez Perez Ricardo Daniel
-Sanchez Vargas Kevin Ivan
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+
+
 
 =======
 >>>>>>> 19442ebf7879de7fd09c6c1d28558a3530c12cbe

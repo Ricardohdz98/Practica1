@@ -1,8 +1,8 @@
 Listas 
-Ricardo Daniel Gonzalez Perez
+Ricardo Daniel Gonzalez Perez 
+Guerrero Muñoz Alan Jahir
+Gallardo Hernandez Emmanuel
 Valadez Lizares Daniel Gustavo
-<<<<<<< HEAD
-Castillo Mares Gilberto
-=======
 Barahona Bañuelos Cesar Leonardo
->>>>>>> e4d0dadcec00c0e3ca5d51eb73375f0661195ddf
+Castillo Mares Gilberto
+Sánchez Ochoa Brian
