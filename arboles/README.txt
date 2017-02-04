@@ -22,4 +22,9 @@ Rodriguez De Anda Gibran Alonso
 diana karina garcia davalos 
 Alvarez Hernandez Irad Eber
 lopez velazquez ahtziri isabel
+
 valencia jacinto elias gerardo
+
+Ricardo Ramos Hernandez
+valencia jacinto elias gerardo
+
