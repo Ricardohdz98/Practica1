@@ -6,6 +6,7 @@ Proyecto Mantenimiento y pruebas de software
 Garcia Haro Luis Jared
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
+gustavo olivares villanueva
 Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
@@ -19,6 +20,12 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
+Sanchez Vargas Kevin Ivan
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+Bola�os Martinez Hector Jair
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Rodriguez De Anda Gibran Alonso
@@ -36,6 +43,11 @@ García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
+Valadez Lizares Daniel Gustavo
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Diaz Lozano Carlos Ernesto
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
