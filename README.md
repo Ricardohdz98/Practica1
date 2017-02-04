@@ -24,6 +24,7 @@ ahtziri isabel lopez velazquez
 Villa Martinez Jorge Alberto 
 Anaya Valladolid Luis Rafael
 Irad Eber Alvarez Hernandez
+Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
 Anaya Valladolid Luis Rafael
@@ -33,6 +34,12 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Ricardo Ramos Hernandez
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Gallardo Hernandez Emmanuel
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Valencia Jacinto Elias Gerardo
