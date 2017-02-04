@@ -4,7 +4,6 @@ Alvizo Flores Jose Omar
 Castillo Mares Gilberto
 Juan Antonio Casillas Ballesteros
 Guerrero Muñoz Alan Jahir
->>>>>>> cf6e3429895b0d45b4ee603f50e5ab7d70c0db5e
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
