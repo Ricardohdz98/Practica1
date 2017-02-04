@@ -4,33 +4,27 @@ Proyecto Mantenimiento y pruebas de software
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
-# Alumnos
-Garcia Haro Luis Jared
-Angel Cipriano Paulino
+# Alu
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
 Sanchez Vargas Kevin Ivan
 Bolaï¿½os Martinez Hector Jair
-valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
-Davila Navarro Cuauhtli
 Castillo Mares Gilberto
-Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
-Davila Navarro Cuauhtli
+Carlo Saul Cardenas Zaragoza
 Guerrero MuÃ±oz Alan Jahir
-SÃ¡nchez Ochoa Brian
-Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
 BolaÃ±os Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Gonzalez Perez Ricardo Daniel
 Gonzalez Perez Ricardo Daniel
-Sanchez Vargas Kevin Ivan
 <<<<<<< HEAD
+
+
 
 
 
