@@ -12,9 +12,6 @@ Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
 
-
-
-
 Castillo Mares Gilberto
 Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
@@ -40,38 +37,17 @@ Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Irad Eber Alvarez Hernandez
 Ricardo Ramos Hernandez
-
-
-
-
 Ricardo Ramos Hernandez
-
-
-
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Gallardo Hernandez Emmanuel
-
-
-
-
-
 Anaya Valladolid Luis Rafael
-
-
-
 García Mercado Brenda Leticia
-
-
-
 Valencia Jacinto Elias Gerardo
-
+Sartiaguin Nu�o Guillermo Manuel
 
