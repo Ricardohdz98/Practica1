@@ -1,19 +1,51 @@
+
+# Practica1
+
 # Proyecto Mantenimiento y pruebas de software
 # Alumnos
 Alvizo Flores Jose Omar
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
-Castillo Mares Gilberto
+=======
+
+
+Sanchez Vargas Kevin Ivan
+
+BolaÒos Martinez Hector Jair
+
+valetin alejandro ruiz ortiz
+
 Juan Antonio Casillas Ballesteros
-Guerrero MuÒoz Alan Jahir
-S·nchez Ochoa Brian
+
+
+>>>>>>> 4da4c10ace0970df8ef20f925a49da942cb1d8c4
+Castillo Mares Gilberto
+
+Juan Antonio Casillas Ballesteros
+Guerrero Mu√±oz Alan Jahir
+S√°nchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
-BolaÒos Martinez Hector Jair
+Bola√±os Martinez Hector Jair
 ahtziri isabel lopez velazquez
-Anaya Valladolid Luis Rafael
+
+Irad Eber Alvarez Hernandez
+
+
+Ricardo Ramos Hernandez
+
 Gallardo Hernandez Emmanuel
+
+
+Anaya Valladolid Luis Rafael
+<<<<<<< HEAD
+
+=======
+Garc√≠a Mercado Brenda Leticia
+
+>>>>>>> 4da4c10ace0970df8ef20f925a49da942cb1d8c4
 
 
 
