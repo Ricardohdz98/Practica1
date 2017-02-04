@@ -29,7 +29,7 @@ Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 Bola√±os Martinez Hector Jair
 ahtziri isabel lopez velazquez
-<<<<<<< HEAD
+
 Rodriguez De Anda Gibran Alonso
 
 Barahona BaÒuelos Cesar Leonardo
