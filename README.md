@@ -18,12 +18,15 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
+<<<<<<< HEAD
 Sanchez Vargas Kevin Ivan
 <<<<<<< HEAD
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 =======
+=======
+>>>>>>> c83d2bc4ff11bcb3995a489849ee9dd123e094c2
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Villa Martinez Jorge Alberto 
