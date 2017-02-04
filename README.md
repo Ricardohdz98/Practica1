@@ -290,6 +290,8 @@ Gallardo Hernandez Emmanuel
 
 Gallardo Hernandez Emmanuel
 
+Gutierrez Mendez Eduardo
+
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 
