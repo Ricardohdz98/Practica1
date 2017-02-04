@@ -19,9 +19,17 @@ Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
+<<<<<<< HEAD
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
+=======
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+Villa Martinez Jorge Alberto 
+Anaya Valladolid Luis Rafael
+Irad Eber Alvarez Hernandez
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
@@ -32,31 +40,19 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Ricardo Ramos Hernandez
+<<<<<<< HEAD
 Diaz Lozano Carlos Ernesto
 
 
 
+=======
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Ricardo Ramos Hernandez
-
-
-
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Gallardo Hernandez Emmanuel
-
-
-
-
-
 Anaya Valladolid Luis Rafael
-
-
-
 García Mercado Brenda Leticia
-
-
-
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
-
-
