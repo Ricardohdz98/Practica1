@@ -4,3 +4,4 @@ Brenda Leticia García Mercado
 Anaya Valladolid Luis Rafael
 cuauhtli davila
 Alejandra Gonzalez
+Bryan Alvarez
