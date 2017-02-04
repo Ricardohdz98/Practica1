@@ -1,4 +1,4 @@
-       \`"-. 
+﻿       \`"-. 
         )  _`-. 
        ,  : `. \ 
        : _   '  \ 
@@ -13,11 +13,15 @@
       ,-' /  ,-' ; .-`- .' `--' 
       `--'   `---' `---' 
 VALENTIN ALEJANDRO RUIZ ORTIZ
-GUSTAVO OLIVARES VILLANUEVA
-GIBRAN ALONSO RODRIGUEZ DE ANDA
-ELIAS VALENCIA JACINTO
-AHTZIRI ISABEL LOPEZ
-DIANA 
-RICARDO
-IRAD
-CARLO SAUL CARDENAS ZARAGOZA
+
+Gustavo Ivàn Olivares Villanueva
+Rodriguez De Anda Gibran Alonso
+diana karina garcia davalos 
+Alvarez Hernandez Irad Eber
+lopez velazquez ahtziri isabel
+martinez valadez carlos fabian
+Ricardo Ramos Hernandez
+valencia jacinto elias gerardo
+Ricardo Ramos Hernandez
+valencia jacinto elias gerardo
+
