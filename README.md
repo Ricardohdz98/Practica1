@@ -13,12 +13,14 @@ Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
+Davila Navarro Cuauhtli
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
 Guerrero Mu�oz Alan Jahir
 S�nchez Ochoa Brian
+Davila Navarro Cuauhtli
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
@@ -31,6 +33,7 @@ Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
+Davila Navarro Cuauhtli
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Bola�os Martinez Hector Jair
@@ -40,6 +43,7 @@ Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Bolaños Martinez Hector Jair
+Davila Navarro Cuauhtli
 ahtziri isabel lopez velazquez
 Rodriguez De Anda Gibran Alonso
 Villa Martinez Jorge Alberto 
@@ -55,6 +59,7 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
+Davila Navarro Cuauhtli
 Ricardo Ramos Hernandez
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
@@ -107,7 +112,10 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
+DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
+Valencia Jacinto Elias Gerardo
 Sartiaguin Nu�o Guillermo Manuel
+Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
