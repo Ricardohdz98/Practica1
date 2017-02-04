@@ -84,6 +84,9 @@ Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 Gallardo Hernandez Emmanuel
 García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Valadez lizares daniel gustavo
 Valencia Jacinto Elias Gerardo
 García Mercado Brenda Leticia
@@ -103,6 +106,8 @@ Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
+Valencia Jacinto Elias Gerardo
+Sartiaguin Nu�o Guillermo Manuel
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
