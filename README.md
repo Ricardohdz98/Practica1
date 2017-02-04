@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> bfbc728d04b05060ffb90137fd49b8b29f3989ac
 # Practica1
 Proyecto Mantenimiento y pruebas de software
 # Practica1
@@ -40,6 +43,10 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
+<<<<<<< HEAD
+=======
+Ricardo Ramos Hernandez
+>>>>>>> bfbc728d04b05060ffb90137fd49b8b29f3989ac
 Diaz Lozano Carlos Ernesto
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
