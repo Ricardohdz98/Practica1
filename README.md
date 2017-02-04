@@ -1,2 +1,3 @@
-# Practica1
-Este es u
+# Proyecto Mantenimiento y pruebas de software
+# Alumnos
+Alvizo Flores Jose Omar
