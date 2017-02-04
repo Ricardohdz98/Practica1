@@ -21,6 +21,11 @@ Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
+Villa Martinez Jorge Alberto 
+Anaya Valladolid Luis Rafael
+Irad Eber Alvarez Hernandez
+Davila Navarro Cuauhtli
+Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
 Anaya Valladolid Luis Rafael
@@ -30,7 +35,18 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Ricardo Ramos Hernandez
+Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+<<<<<<< HEAD
 Davila Navarro Cuauhtli
 
+=======
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Anaya Valladolid Luis Rafael
+Davila Navarro Cuauhtli
+García Mercado Brenda Leticia
+Valencia Jacinto Elias Gerardo
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
