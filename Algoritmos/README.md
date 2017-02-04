@@ -2,7 +2,7 @@
 "Algoritmos"
 #Integrantes
 
-#Bolaños Martinez Hector Jair 
+Bolaños Martinez Hector Jair 
 
 Garcia Haro Luis Jared
 
@@ -14,4 +14,4 @@ Villa Martinez Jorge Alberto
 
 Gonzalez Hinostroza Victor Benigno
 
-Diaz Lozano Karlos Ernesto
+Diaz Lozano Carlos Ernesto
