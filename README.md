@@ -17,7 +17,11 @@ Sanchez Vargas Kevin Ivan
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 <<<<<<< HEAD
+Irad Eber Alvarez Hernandez
+=======
+<<<<<<< HEAD
 Ricardo Ramos Hernandez
+>>>>>>> d467e2205ea15177f1c843e3a2828dcd56c1f633
 
 Valadez Lizares Daniel Gustavo
 
