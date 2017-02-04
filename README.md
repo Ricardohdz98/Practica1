@@ -2,7 +2,13 @@
 
 
 
+
 Proyecto Mantenimiento y pruebas de software
+
+# Practica1
+
+# Proyecto Mantenimiento y pruebas de software
+
 # Alumnos
 Alvizo Flores Jose Omar
 
@@ -16,11 +22,26 @@ Juan Antonio Casillas Ballesteros
 
 Juan Antonio Casillas Ballesteros
 
+
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
+=======
+Guerrero MuÃ±oz Alan Jahir
+SÃ¡nchez Ochoa Brian
+
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
-Bolaños Martinez Hector Jair
+BolaÃ±os Martinez Hector Jair
 ahtziri isabel lopez velazquez
+ HEAD
 Barahona Bañuelos Cesar Leonardo
+
+
+Ricardo Ramos Hernandez
+
+
+
+Anaya Valladolid Luis Rafael
+GarcÃ­a Mercado Brenda Leticia
+
 
