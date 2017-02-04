@@ -1,4 +1,4 @@
-
+Davila Navarro Cuauhtli
 
 
 # Practica1
@@ -24,7 +24,7 @@ Angel Cipriano Paulino
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
 
-
+Davila Navarro Cuauhtli
 
 
 Sanchez Vargas Kevin Ivan
@@ -36,7 +36,7 @@ Juan Antonio Casillas Ballesteros
 =======
 
 
-
+Davila Navarro Cuauhtli
 
 >>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Castillo Mares Gilberto
@@ -45,6 +45,7 @@ Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
 Guerrero Mu�oz Alan Jahir
 S�nchez Ochoa Brian
+Davila Navarro Cuauhtli
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel
@@ -53,13 +54,13 @@ Sanchez Vargas Kevin Ivan
 
 
 
-
+Perez Hernandez Leopoldo Daniel
 Bola�os Martinez Hector Jair
 
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 
-
+Davila Navarro Cuauhtli
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 
@@ -72,6 +73,7 @@ Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 
 Bolaños Martinez Hector Jair
+Davila Navarro Cuauhtli
 ahtziri isabel lopez velazquez
 Villa Martinez Jorge Alberto 
 Anaya Valladolid Luis Rafael
@@ -89,6 +91,7 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
+Davila Navarro Cuauhtli
 Ricardo Ramos Hernandez
 <<<<<<< HEAD
 =======
@@ -154,8 +157,21 @@ García Mercado Brenda Leticia
 <<<<<<< HEAD
 >>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Valencia Jacinto Elias Gerardo
+<<<<<<< HEAD
+DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
+=======
+<<<<<<< HEAD
+Valencia Jacinto Elias Gerardo
+
+=======
 Sartiaguin Nu�o Guillermo Manuel
+<<<<<<< HEAD
 Perez Hernandez Leopoldo Daniel
+=======
+>>>>>>> f51edd18888e16cab3e7a94e694b75f604b0d353
+
+>>>>>>> afd130f9b09318c3952db5035310b2117728923c
 =======
 Valencia Jacinto Elias Gerardo
 >>>>>>> 5a4b9354e21ffa5e3dd097a61140921c4c8fe1eb
+>>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
