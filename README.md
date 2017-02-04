@@ -1,8 +1,8 @@
 
-# Cesar Leonardo
 
 
-# Proyecto Mantenimiento y pruebas de software
+
+Proyecto Mantenimiento y pruebas de software
 # Alumnos
 Alvizo Flores Jose Omar
 
@@ -14,5 +14,5 @@ Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
+Barahona Bañuelos Cesar Leonardo
 
