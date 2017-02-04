@@ -65,6 +65,14 @@ ahtziri isabel lopez velazquez
 Gonzalez Perez Ricardo Daniel
 Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+
+
+=======
+>>>>>>> 19442ebf7879de7fd09c6c1d28558a3530c12cbe
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
@@ -176,6 +184,8 @@ García Mercado Brenda Leticia
 
 =======
 Gallardo Hernandez Emmanuel
+Perez Hernandez Leopoldo Daniel
+Perez Hernandez Leopoldo Daniel
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
@@ -234,6 +244,16 @@ Valencia Jacinto Elias Gerardo
 DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
 Valencia Jacinto Elias Gerardo
 Sartiaguin Nu�o Guillermo Manuel
+<<<<<<< HEAD
+<<<<<<< HEAD
+Perez Hernandez Leopoldo Daniel
+=======
+>>>>>>> f51edd18888e16cab3e7a94e694b75f604b0d353
+
+>>>>>>> afd130f9b09318c3952db5035310b2117728923c
+=======
+=======
+>>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
