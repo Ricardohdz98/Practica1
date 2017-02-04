@@ -1,6 +1,6 @@
 
 <<<<<<< HEAD
-Este es u
+
 =======
 
 >>>>>>> d467e2205ea15177f1c843e3a2828dcd56c1f633
@@ -13,7 +13,6 @@ Proyecto Mantenimiento y pruebas de software
 # Alumnos
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
-
 Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
@@ -21,7 +20,9 @@ Juan Antonio Casillas Ballesteros
 
 
 
-Valadez Lizares Daniel Gustavo
+
+=======
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
@@ -32,33 +33,26 @@ Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
-
-Bola�os Martinez Hector Jair
-
-
-
-
 Bolaños Martinez Hector Jair
-
 ahtziri isabel lopez velazquez
-
+Villa Martinez Jorge Alberto 
+Anaya Valladolid Luis Rafael
+Irad Eber Alvarez Hernandez
 Rodriguez De Anda Gibran Alonso
-
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Valadez Lizares Daniel Gustavo
 
@@ -68,12 +62,12 @@ Valadez Lizares Daniel Gustavo
 
 
 
+=======
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Ricardo Ramos Hernandez
-
-
-
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+<<<<<<< HEAD
 
 >>>>>>> 9b15522af3d8e96df45d2cca5ed95eeeea092540
 Gallardo Hernandez Emmanuel
@@ -92,11 +86,12 @@ Gallardo Hernandez Emmanuel
 =======
 
 >>>>>>> 9b15522af3d8e96df45d2cca5ed95eeeea092540
+=======
+Gallardo Hernandez Emmanuel
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Anaya Valladolid Luis Rafael
-
-
-
 García Mercado Brenda Leticia
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Valadez lizares daniel gustavo
@@ -108,6 +103,8 @@ Valadez lizares daniel gustavo
 
 
 
+=======
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
 Valencia Jacinto Elias Gerardo
-
-
