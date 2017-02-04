@@ -1,8 +1,19 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> bfbc728d04b05060ffb90137fd49b8b29f3989ac
 # Practica1
+       \`"-. 
+        )  _`-. 
+       ,  : `. \ 
+       : _   '  \ 
+       ; *` _.   `--._ 
+       `-.-'          `-. 
+         |       `       `. 
+         :.       .        \ 
+         | \  .   :   .-'   . 
+         :  )-.;  ;  /      : 
+         :  ;  | :  :       ;-. 
+         ; /   : |`-:     _ `- ) 
+      ,-' /  ,-' ; .-`- .' `--' 
+      `--'   `---' `---' 
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
@@ -22,8 +33,15 @@ Guerrero Mu�oz Alan Jahir
 S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
-Gonzalez Perez Ricardo Daniel 
+Gonzalez Perez Ricardo Daniel
+Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
+Bola�os Martinez Hector Jair
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Bola�os Martinez Hector Jair
@@ -43,21 +61,53 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
-<<<<<<< HEAD
-=======
 Ricardo Ramos Hernandez
->>>>>>> bfbc728d04b05060ffb90137fd49b8b29f3989ac
+Diaz Lozano Carlos Ernesto
 Diaz Lozano Carlos Ernesto
 Valadez Lizares Daniel Gustavo
+Valadez Lizares Daniel Gustavo
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+Gallardo Hernandez Emmanuel
+García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
+Valencia Jacinto Elias Gerardo
+García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+diana karina garcia davalos
+
+
+
+
+
+Gallardo Hernandez Emmanuel
+
+
+
+Gallardo Hernandez Emmanuel
+
+
+Anaya Valladolid Luis Rafael
+
+
+
+
+
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Gallardo Hernandez Emmanuel
 Gallardo Hernandez Emmanuel
 Anaya Valladolid Luis Rafael
+
 García Mercado Brenda Leticia
 Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+<<<<<<< HEAD
 Valencia Jacinto Elias Gerardo
 
+
+=======
+Valencia Jacinto Elias Gerardo
+>>>>>>> 5a4b9354e21ffa5e3dd097a61140921c4c8fe1eb
