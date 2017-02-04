@@ -30,11 +30,20 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
+
+Sanchez Vargas Kevin Ivan
+
+Bola�os Martinez Hector Jair
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+
+
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Villa Martinez Jorge Alberto 
 Anaya Valladolid Luis Rafael
 Irad Eber Alvarez Hernandez
+
 Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
@@ -47,10 +56,14 @@ Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
 
+Diaz Lozano Carlos Ernesto
 
 Valadez Lizares Daniel Gustavo
 
 
+
+
+Valadez Lizares Daniel Gustavo
 
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
