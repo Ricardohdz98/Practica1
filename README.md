@@ -96,8 +96,6 @@ Sanchez Vargas Kevin Ivan
 =======
 <<<<<<< HEAD
 
-
-
 =======
 >>>>>>> 19442ebf7879de7fd09c6c1d28558a3530c12cbe
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
@@ -312,9 +310,9 @@ Valencia Jacinto Elias Gerardo
 DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
 Valencia Jacinto Elias Gerardo
 Sartiaguin Nuño Guillermo Manuel
-<<<<<<< HEAD
-<<<<<<< HEAD
 Perez Hernandez Leopoldo Daniel
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f51edd18888e16cab3e7a94e694b75f604b0d353
 
