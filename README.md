@@ -4,6 +4,7 @@ Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
 # Alumnos
+Garcia Haro Luis Jared
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
 Sanchez Vargas Kevin Ivan
