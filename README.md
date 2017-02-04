@@ -1,18 +1,4 @@
 # Practica1
-       \`"-. 
-        )  _`-. 
-       ,  : `. \ 
-       : _   '  \ 
-       ; *` _.   `--._ 
-       `-.-'          `-. 
-         |       `       `. 
-         :.       .        \ 
-         | \  .   :   .-'   . 
-         :  )-.;  ;  /      : 
-         :  ;  | :  :       ;-. 
-         ; /   : |`-:     _ `- ) 
-      ,-' /  ,-' ; .-`- .' `--' 
-      `--'   `---' `---' 
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
