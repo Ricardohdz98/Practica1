@@ -34,7 +34,6 @@ Sanchez Vargas Kevin Ivan
 
 
 
-Perez Hernandez Leopoldo Daniel
 =======
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Bola�os Martinez Hector Jair
