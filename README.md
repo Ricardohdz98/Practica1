@@ -1,8 +1,9 @@
 
+
+
 # Practica1
 Proyecto Mantenimiento y pruebas de software
 # Practica1
-
 # Proyecto Mantenimiento y pruebas de software
 # Alumnos
 Angel Cipriano Paulino
@@ -11,10 +12,12 @@ gustavo olivares villanueva
 
 
 
+
 Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
+
 
 
 
@@ -28,25 +31,24 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
-
 Sanchez Vargas Kevin Ivan
 
 
 
+
+Bola�os Martinez Hector Jair
+
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+
+
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+
 Bola�os Martinez Hector Jair
 
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
-
-Bolaños Martinez Hector Jair
-ahtziri isabel lopez velazquez
-
-Bola�os Martinez Hector Jair
-Bolaños Martinez Hector Jair
-ahtziri isabel lopez velazquez
-
-
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
@@ -74,10 +76,10 @@ Ricardo Ramos Hernandez
 
 Diaz Lozano Carlos Ernesto
 
+
 Diaz Lozano Carlos Ernesto
-
-
 Valadez Lizares Daniel Gustavo
+
 
 
 
@@ -109,14 +111,18 @@ Anaya Valladolid Luis Rafael
 
 
 
-García Mercado Brenda Leticia
 
-Valadez lizares daniel gustavo
-
-
+Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
 
+García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
 
 
