@@ -7,6 +7,10 @@ Proyecto Mantenimiento y pruebas de software
 Alvizo Flores Jose Omar
 
 
+
+=======
+Castillo Mares Gilberto
+
 Juan Antonio Casillas Ballesteros
 
 
