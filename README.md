@@ -34,7 +34,7 @@ Bolaños Martinez Hector Jair
 
 ahtziri isabel lopez velazquez
 
-
+Rodriguez De Anda Gibran Alonso
 
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
@@ -69,6 +69,7 @@ Anaya Valladolid Luis Rafael
 
 
 García Mercado Brenda Leticia
+
 
 
 Valencia Jacinto Elias Gerardo
