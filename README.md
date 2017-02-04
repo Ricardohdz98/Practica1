@@ -1,6 +1,6 @@
 
 # Practica1
-<<<<<<< HEAD
+
 Este es u
 =======
 
@@ -41,6 +41,7 @@ Valadez Lizares Daniel Gustavo
 
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
 
 
 
