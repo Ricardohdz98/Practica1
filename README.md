@@ -19,6 +19,7 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel
+Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
@@ -48,4 +49,13 @@ Anaya Valladolid Luis Rafael
 Gallardo Hernandez Emmanuel
 García Mercado Brenda Leticia
 Valadez lizares daniel gustavo
+Valencia Jacinto Elias Gerardo
+García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
