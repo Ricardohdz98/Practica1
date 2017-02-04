@@ -30,6 +30,7 @@ Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
 Guerrero MuÒoz Alan Jahir
 S·nchez Ochoa Brian
+Davila Navarro Cuauhtli
 Guerrero Mu√±oz Alan Jahir
 S√°nchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel
@@ -75,4 +76,4 @@ Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 Garc√≠a Mercado Brenda Leticia
 Valencia Jacinto Elias Gerardo
-DAvila NAvarro Cuauhtli
+DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
