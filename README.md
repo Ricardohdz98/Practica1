@@ -7,17 +7,10 @@ Proyecto Mantenimiento y pruebas de software
 Garcia Haro Luis Jared
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
-
-
-
 Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
-
-
-
-
 Castillo Mares Gilberto
 Juan Antonio Casillas Ballesteros
 Juan Antonio Casillas Ballesteros
@@ -26,12 +19,13 @@ S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
-Sanchez Vargas Kevin Ivan
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
 Rodriguez De Anda Gibran Alonso
-
+Villa Martinez Jorge Alberto 
+Anaya Valladolid Luis Rafael
+Irad Eber Alvarez Hernandez
+Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
 Anaya Valladolid Luis Rafael
@@ -41,20 +35,14 @@ Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Irad Eber Alvarez Hernandez
 Ricardo Ramos Hernandez
-Gallardo Hernandez Emmanuel
-
-
-
-
-
-
+Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
-
-
-
+García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
 Mercado Brenda Leticia
-
-
-
-
-
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Valencia Jacinto Elias Gerardo
