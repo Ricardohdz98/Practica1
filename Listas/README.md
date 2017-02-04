@@ -1,3 +1,3 @@
 Listas 
-Ricardo Daniel Gonzalez Perez 
-Castillo Mares Gilberto
+Ricardo Daniel Gonzalez Perez
+Valadez Lizares Daniel Gustavo
