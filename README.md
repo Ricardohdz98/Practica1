@@ -2,6 +2,20 @@
 
 
 # Practica1
+       \`"-. 
+        )  _`-. 
+       ,  : `. \ 
+       : _   '  \ 
+       ; *` _.   `--._ 
+       `-.-'          `-. 
+         |       `       `. 
+         :.       .        \ 
+         | \  .   :   .-'   . 
+         :  )-.;  ;  /      : 
+         :  ;  | :  :       ;-. 
+         ; /   : |`-:     _ `- ) 
+      ,-' /  ,-' ; .-`- .' `--' 
+      `--'   `---' `---' 
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
@@ -30,7 +44,8 @@ Guerrero Mu�oz Alan Jahir
 S�nchez Ochoa Brian
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
-Gonzalez Perez Ricardo Daniel 
+Gonzalez Perez Ricardo Daniel
+Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 
 
@@ -87,6 +102,10 @@ Valadez Lizares Daniel Gustavo
 
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
+Gallardo Hernandez Emmanuel
+García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
+Valencia Jacinto Elias Gerardo
 García Mercado Brenda Leticia
 
 
@@ -123,6 +142,10 @@ García Mercado Brenda Leticia
 Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
+<<<<<<< HEAD
 Valencia Jacinto Elias Gerardo
 
 
+=======
+Valencia Jacinto Elias Gerardo
+>>>>>>> 5a4b9354e21ffa5e3dd097a61140921c4c8fe1eb
