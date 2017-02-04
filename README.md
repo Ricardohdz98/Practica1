@@ -1,44 +1,19 @@
-Davila Navarro Cuauhtli
-
-
 # Practica1
-       \`"-. 
-        )  _`-. 
-       ,  : `. \ 
-       : _   '  \ 
-       ; *` _.   `--._ 
-       `-.-'          `-. 
-         |       `       `. 
-         :.       .        \ 
-         | \  .   :   .-'   . 
-         :  )-.;  ;  /      : 
-         :  ;  | :  :       ;-. 
-         ; /   : |`-:     _ `- ) 
-      ,-' /  ,-' ; .-`- .' `--' 
-      `--'   `---' `---' 
+Proyecto Mantenimiento y pruebas de software
+# Practica1
 Proyecto Mantenimiento y pruebas de software
 # Practica1
 # Proyecto Mantenimiento y pruebas de software
 # Alumnos
+Garcia Haro Luis Jared
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
-
-Davila Navarro Cuauhtli
-
-
 Sanchez Vargas Kevin Ivan
 Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
-
-<<<<<<< HEAD
-=======
-
-
 Davila Navarro Cuauhtli
-
->>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
@@ -48,39 +23,39 @@ S�nchez Ochoa Brian
 Davila Navarro Cuauhtli
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
+Gonzalez Perez Ricardo Daniel 
+Sanchez Vargas Kevin Ivan
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
 Gonzalez Perez Ricardo Daniel
 Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
+<<<<<<< HEAD
 
 
 
 Perez Hernandez Leopoldo Daniel
+=======
+>>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Bola�os Martinez Hector Jair
-
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
 Davila Navarro Cuauhtli
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
 Bola�os Martinez Hector Jair
-
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Bola�os Martinez Hector Jair
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
-
 Bolaños Martinez Hector Jair
 Davila Navarro Cuauhtli
 ahtziri isabel lopez velazquez
+Rodriguez De Anda Gibran Alonso
 Villa Martinez Jorge Alberto 
 Anaya Valladolid Luis Rafael
 Irad Eber Alvarez Hernandez
-
-
-
 Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
@@ -93,78 +68,63 @@ Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
 Davila Navarro Cuauhtli
 Ricardo Ramos Hernandez
-<<<<<<< HEAD
-=======
-
-
-Diaz Lozano Carlos Ernesto
-
-
+Valadez Lizares Daniel Gustavo
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
 Diaz Lozano Carlos Ernesto
 Valadez Lizares Daniel Gustavo
-
-
-
-
+Ricardo Ramos Hernandez
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Gallardo Hernandez Emmanuel
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
+Mercado Brenda Leticia
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Valadez lizares daniel gustavo
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+Valencia Jacinto Elias Gerardo
+Valencia Jacinto Elias Gerardo
+Diaz Lozano Carlos Ernesto
+Diaz Lozano Carlos Ernesto
 Valadez Lizares Daniel Gustavo
-
->>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
+Valadez Lizares Daniel Gustavo
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 Gallardo Hernandez Emmanuel
 García Mercado Brenda Leticia
-<<<<<<< HEAD
 Gallardo Hernandez Emmanuel
+Perez Hernandez Leopoldo Daniel
+Perez Hernandez Leopoldo Daniel
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-=======
 Valadez lizares daniel gustavo
 Valencia Jacinto Elias Gerardo
 García Mercado Brenda Leticia
-
-
 Gallardo Hernandez Emmanuel
-
-
 diana karina garcia davalos
-
-
-
-
-
 Gallardo Hernandez Emmanuel
-
-
-
 Gallardo Hernandez Emmanuel
-
-
 Anaya Valladolid Luis Rafael
-
-
-
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 Gallardo Hernandez Emmanuel
 Gallardo Hernandez Emmanuel
 Anaya Valladolid Luis Rafael
-
 García Mercado Brenda Leticia
 Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
-<<<<<<< HEAD
->>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Valencia Jacinto Elias Gerardo
-<<<<<<< HEAD
+Valencia Jacinto Elias Gerardo
 DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
-=======
-<<<<<<< HEAD
 Valencia Jacinto Elias Gerardo
-
-=======
 Sartiaguin Nu�o Guillermo Manuel
+<<<<<<< HEAD
 <<<<<<< HEAD
 Perez Hernandez Leopoldo Daniel
 =======
@@ -172,6 +132,9 @@ Perez Hernandez Leopoldo Daniel
 
 >>>>>>> afd130f9b09318c3952db5035310b2117728923c
 =======
+=======
+>>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Valencia Jacinto Elias Gerardo
->>>>>>> 5a4b9354e21ffa5e3dd097a61140921c4c8fe1eb
->>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
+Valencia Jacinto Elias Gerardo
+Valencia Jacinto Elias Gerardo
+Valencia Jacinto Elias Gerardo
