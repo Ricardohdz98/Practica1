@@ -1,3 +1,5 @@
 #Pilas y Colas
-Brenda Leticia García
+Brenda Leticia GarcÃ­a
 #Integrantes 
+Anaya Valladolid Luis Rafael
+cuauhtli davila
