@@ -1,4 +1,4 @@
-
+Davila Navarro Cuauhtli
 
 
 # Practica1
@@ -32,10 +32,13 @@ Bola�os Martinez Hector Jair
 valetin alejandro ruiz ortiz
 Juan Antonio Casillas Ballesteros
 
+<<<<<<< HEAD
+=======
 
 
 Davila Navarro Cuauhtli
 
+>>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
@@ -90,6 +93,8 @@ Irad Eber Alvarez Hernandez
 Valadez Lizares Daniel Gustavo
 Davila Navarro Cuauhtli
 Ricardo Ramos Hernandez
+<<<<<<< HEAD
+=======
 
 
 Diaz Lozano Carlos Ernesto
@@ -103,10 +108,16 @@ Valadez Lizares Daniel Gustavo
 
 Valadez Lizares Daniel Gustavo
 
+>>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 Gallardo Hernandez Emmanuel
 García Mercado Brenda Leticia
+<<<<<<< HEAD
+Gallardo Hernandez Emmanuel
+Anaya Valladolid Luis Rafael
+García Mercado Brenda Leticia
+=======
 Valadez lizares daniel gustavo
 Valencia Jacinto Elias Gerardo
 García Mercado Brenda Leticia
@@ -132,8 +143,6 @@ Anaya Valladolid Luis Rafael
 
 
 
-
-
 Ricardo Ramos Hernandez
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
@@ -146,12 +155,17 @@ Valadez lizares daniel gustavo
 Anaya Valladolid Luis Rafael
 García Mercado Brenda Leticia
 <<<<<<< HEAD
+>>>>>>> e67eb9897317d3cf49b9c845647712b8ae8f6949
 Valencia Jacinto Elias Gerardo
+<<<<<<< HEAD
 DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
 =======
 <<<<<<< HEAD
 Valencia Jacinto Elias Gerardo
 
+=======
+Sartiaguin Nu�o Guillermo Manuel
+>>>>>>> f51edd18888e16cab3e7a94e694b75f604b0d353
 
 =======
 Valencia Jacinto Elias Gerardo
