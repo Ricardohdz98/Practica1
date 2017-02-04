@@ -43,16 +43,30 @@ Sánchez Ochoa Brian
 Gonzalez Perez Ricardo Daniel 
 <<<<<<< HEAD
 Sanchez Vargas Kevin Ivan
+<<<<<<< HEAD
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 <<<<<<< HEAD
 =======
+=======
+<<<<<<< HEAD
+Bola�os Martinez Hector Jair
+Bolaños Martinez Hector Jair
+ahtziri isabel lopez velazquez
+=======
+=======
+>>>>>>> c83d2bc4ff11bcb3995a489849ee9dd123e094c2
+>>>>>>> f81d7fe2201d18e04efdd83820680fa9f671f69c
 Bolaños Martinez Hector Jair
 ahtziri isabel lopez velazquez
 Villa Martinez Jorge Alberto 
 Anaya Valladolid Luis Rafael
 Irad Eber Alvarez Hernandez
+<<<<<<< HEAD
 >>>>>>> 1b8163a945dfe6d8cd988da6093106dd115ff6fe
+=======
+>>>>>>> f8bfec23afd83f3cec87515d433e48a41dbeff0d
+>>>>>>> f81d7fe2201d18e04efdd83820680fa9f671f69c
 Rodriguez De Anda Gibran Alonso
 Barahona Ba�uelos Cesar Leonardo
 Irad Eber Alvarez Hernandez
@@ -68,6 +82,9 @@ Ricardo Ramos Hernandez
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+Diaz Lozano Carlos Ernesto
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -76,6 +93,7 @@ Valadez Lizares Daniel Gustavo
 =======
 =======
 
+>>>>>>> 1b8163a945dfe6d8cd988da6093106dd115ff6fe
 
 
 
