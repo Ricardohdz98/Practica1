@@ -32,8 +32,6 @@ Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 <<<<<<< HEAD
 
-
-
 =======
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
 Bolaï¿½os Martinez Hector Jair
@@ -123,9 +121,9 @@ Valencia Jacinto Elias Gerardo
 DAvila NAvarro CuauhtliDavila Navarro Cuauhtli
 Valencia Jacinto Elias Gerardo
 Sartiaguin Nuño Guillermo Manuel
-<<<<<<< HEAD
-<<<<<<< HEAD
 Perez Hernandez Leopoldo Daniel
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f51edd18888e16cab3e7a94e694b75f604b0d353
 
