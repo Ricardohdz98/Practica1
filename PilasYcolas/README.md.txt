@@ -1,4 +1,4 @@
-#Pilas y Colas
+﻿#Pilas y Colas
 Brenda Leticia García Mercado
 #Integrantes 
 Anaya Valladolid Luis Rafael
@@ -8,3 +8,4 @@ Bryan Alvarez
 Sartiaguin Nuño Guillermo Manuel
 Casillas Ballesteros Juan Antonio
 Cipriano Paulino Angel
+Gutierrez Mendez Eduardo
