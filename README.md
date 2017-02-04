@@ -258,4 +258,8 @@ Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
 Valencia Jacinto Elias Gerardo
+<<<<<<< HEAD
+Martinez Valadez Carlos Fabian
+=======
 >>>>>>> 743b4ef79a077080e9b42162e3413aac9c5a13cb
+>>>>>>> 7e73f554ae7d0908b4961029f2253c1e8694890d
