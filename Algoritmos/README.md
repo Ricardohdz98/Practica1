@@ -2,6 +2,8 @@
 "Algoritmos"
 #Integrantes
 
+Saldana Alexis Guadalupe
+
 Bolaños Martinez Hector Jair 
 
 Garcia Haro Luis Jared
@@ -15,3 +17,5 @@ Villa Martinez Jorge Alberto
 Gonzalez Hinostroza Victor Benigno
 
 Diaz Lozano Carlos Ernesto
+
+
