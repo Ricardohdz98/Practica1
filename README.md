@@ -1,7 +1,7 @@
 
-Davila Navarro Cuauhtli
 # Practica1
 # Alumnos
+Saldana Alexis Guadalupe 
 Garcia Haro Luis Jared
 Angel Cipriano Paulino
 Alvizo Flores Jose Omar
@@ -9,7 +9,7 @@ gustavo olivares villanueva
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
 Sanchez Vargas Kevin Ivan
-valetin alejandro ruiz ortiz
+valetina alejandra ruiz.l. ortiz
 Juan Antonio Casillas Ballesteros
 Alvizo Flores Jose Omar
 gustavo olivares villanueva
