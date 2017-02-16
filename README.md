@@ -20,7 +20,6 @@ Davila Navarro Cuauhtli
 Castillo Mares Gilberto
 Valadez Lizares Daniel Gustavo
 Juan Antonio Casillas Ballesteros
-Juan Antonio Casillas Ballesteros
 Guerrero Muñoz Alan Jahir
 Sánchez Ochoa Brian
 Carlo Saul Cardenas Zaragoza
