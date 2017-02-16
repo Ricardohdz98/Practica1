@@ -27,7 +27,6 @@ Guerrero Muñoz Alan Jahir
 Davila Navarro Cuauhtli
 Guerrero Muñoz Alan Jahir
 Gonzalez Perez Ricardo Daniel
-Gonzalez Perez Ricardo Daniel
 Sanchez Vargas Kevin Ivan
 Gonzalez Perez Ricardo Daniel 
 Sanchez Vargas Kevin Ivan
