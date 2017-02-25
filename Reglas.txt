@@ -1,0 +1,66 @@
+1. Archivos .h y .cpp
+2. Comentario previo a la funcion con el siguiente
+   formato:
+
+/* Nombre:
+   Dueno:
+   Desc:
+   Parametros:
+        Lista L  -> Lista a insertar
+        Int dato -> dato a meter */
+
+3. Nombre de las estructuras:
+	Los nombre de las estructuras deben 
+	representar el significado de lo que 
+	hara la estructura y deben empezar con 
+	Mayusculas.
+
+4. Nombre de las variables:
+ 	Los nombres de las variables deben 
+	de ser significativos con la funcion que 
+	haran.
+
+	Ejemplo:
+		int ultimoDato;
+
+	empezando siempre en minuscula y la siguiente
+	palabra en mayuscula
+
+5. Nombres de funciones:
+	Deben empezar siempre con un verbo siguido del 
+	nombre de la estructura que lo va a utilizar.
+	
+	Ejemplo:
+		
+		void insertarLista(Lista L, int dato);
+
+6. Identado:
+	
+	for(int i = 0; i < 5; i++)
+	{// Llaves alineadas
+		int bla;// Identadas con un tab.
+	}
+
+	void hola(int h)
+	{
+		int dato = 0;
+		dato++;
+	}
+
+7. Nombre de los archivos
+	Deben de tener el nombre de la estructura que
+	representa el archivo.
+	
+	Ejemplo:
+
+	struct Nodo
+	{
+		int dato;
+		Nodo der, izq;
+	};
+	struct Arbol
+	{
+		Nodo* raiz;
+	};
+
+	Nombre del archivo: Arbol.c y Arbol.h
