@@ -1,8 +1,9 @@
 Listas 
 Ricardo Daniel Gonzalez Perez 
-Guerrero Muñoz Alan Jahir
+Guerrero MuÃ±oz Alan Jahir
 Gallardo Hernandez Emmanuel
 Valadez Lizares Daniel Gustavo
-Barahona Bañuelos Cesar Leonardo
+Barahona BaÃ±uelos Cesar Leonardo
 Castillo Mares Gilberto
-Sánchez Ochoa Brian
+SÃ¡nchez Ochoa Brian
+carrillo bejines itzel alejandra
