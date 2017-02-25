@@ -22,7 +22,5 @@ lopez velazquez ahtziri isabel
 martinez valadez carlos fabian
 Ricardo Ramos Hernandez
 valencia jacinto elias gerardo
-Ricardo Ramos Hernandez
-valencia jacinto elias gerardo
 Carlo Saul Cardenas Zaragoza 
 
