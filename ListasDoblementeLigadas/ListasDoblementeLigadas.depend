@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488652163 source:c:\users\epglcm\documents\git\practica1\practica1\listasdoblementeligadas\main.cpp
+	<iostream>
+	"ListasDL.h"
+
+1488652178 source:c:\users\epglcm\documents\git\practica1\practica1\listasdoblementeligadas\listasdl.cpp
+	"ListasDL.h"
+	<stdio.h>
+
+1488652029 c:\users\epglcm\documents\git\practica1\practica1\listasdoblementeligadas\listasdl.h
+
