@@ -4,68 +4,79 @@
 
 using namespace std;
 
-void llenarArreglo(int n);
-void ordenarArreglo (int arreglo[], int n);
-void ordenarBurbuja ();
+void llenarArreglo(int arreglo[], int num);
+void quicksort(int arreglo[], int num);
+void imprimirArreglo (int arreglo[], int num);
 
 int main()
 {
-    int n;
+    int num;
+    int condicion;
+
     printf("Numero de elementos: ");
-    scanf("%i",&n);
-    llenarArreglo(n);
+    scanf("%i",&num);
+    int arreglo[num];
+    llenarArreglo(arreglo, num);
+    system("cls");
+    do
+        {
+            printf("Opciones: \n1.Burbuja. \n2.QuickSort. \n3.RadixSort. \n4.MergeSort. \n5.Invertir Cadena. \n6.Imprimir Arreglo.\n0.Salir. \nOpcion a elegir: ");
+            scanf("%i",&condicion);
+            switch(condicion)
+                {
+                    case 1:
+                        {
+                            break;
+                        }
+                    case 2:
+                        {
+                            break;
+                        }
+                    case 3:
+                        {
+                            break;
+                        }
+                    case 4:
+                        {
+                            break;
+                        }
+                    case 5:
+                        {
+                            break;
+                        }
+                    case 6:
+                        {
+                            imprimirArreglo(arreglo, num);
+                        }
+                }
+        }while(condicion=0);
     return 0;
 }
 
-void llenarArreglo(int n)
+void llenarArreglo(int arreglo[], int num)
 {
-    int arreglo[n];
-    for(int cont=0;cont<n;cont++)
+    for(int cont=0;cont<num;cont++)
     {
         system("cls");
         printf("Valor de la casillla %i: ",cont + 1);
         scanf("%i",&arreglo[cont]);
     }
-    ordenarArreglo(arreglo, n);
+    //quicksort(arreglo, num);
 }
 
-void ordenarArreglo (int arreglo[], int n)
+void quicksort (int arreglo[], int num)
 {
-    system("cls");
-    for(int cont=0;cont<n;cont++)
-    {
-        printf("%i ",arreglo[cont]);
-    }
-
     int primero, ultimo, central;
     primero = 0;
-    ultimo = n-1;
+    ultimo = num-1;
     central = primero + ultimo / 2;
 }
 
-void ordenarBurbuja ()
+void imprimirArreglo (int arreglo[], int num)
 {
-    int num[5]={5,4,7,6,8};
-    int i,j,k,aux;
-
-    for(i=0;i<k;++i)
+    system("cls");
+    for(int cont=0;cont<num;cont++)
     {
-        for(j=0;j<4;++j)
-        {
-            if (num[j]>num[j+1])
-            {
-                aux = num[j];
-                num[j] = num[j+1];
-                num[j+1]=aux;
-            }
-        }
+        printf("%i ",arreglo[cont]);
     }
-
-    for(k=0;k<5;++k){
-
-    printf("%i\n",num[k]);
-    }
-   return 0;
-    
 }
-
